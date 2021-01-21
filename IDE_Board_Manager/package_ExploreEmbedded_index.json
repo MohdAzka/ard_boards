@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "ExploreEmbedded",
-      "maintainer": "ExploreEmbedded",
+      "name": "MohdAzka",
+      "maintainer": "MohdAzka",
       "websiteURL": "https://ExploreEmbedded.com",
       "email": "support@exploreembedded.com",
       "help": {
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "ExploreEmbedded AVR Boards",
+          "name": "Mohd Azka Boards",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
