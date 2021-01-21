@@ -1,0 +1,46 @@
+{
+  "packages": [
+    {
+      "name": "ExploreEmbedded",
+      "maintainer": "ExploreEmbedded",
+      "websiteURL": "https://ExploreEmbedded.com",
+      "email": "support@exploreembedded.com",
+      "help": {
+        "online": "https://exploreembedded.com/wiki"
+      },
+      "platforms": [
+        {
+          "name": "ExploreEmbedded AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/ExploreEmbedded/Arduino_Boards/raw/master/IDE_Board_Manager/exploreembeddedavrboards.zip",
+          "archiveFileName": "exploreembeddedavrboards.zip",
+          "checksum": "SHA-256:1BA073B66EA561CCD75069AC14E3FDD93E872AD6B5EA3DF46B8C79EF6A9666A2",
+          "size": "28563",
+          "help": {
+            "online": "https://exploreembedded.com/wiki"
+          },
+          "boards": [
+            {
+              "name": "ExploreEmbedded Atmega128"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
