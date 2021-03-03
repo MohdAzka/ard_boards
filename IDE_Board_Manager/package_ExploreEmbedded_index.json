@@ -11,19 +11,19 @@
       "platforms": [
         {
           "name": "Mohd Azka Boards",
-          "architecture": "avr",
+          "architecture": "esp32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/MohdAzka/ard_boards/raw/master/IDE_Board_Manager/exploreembeddedavrboards.zip",
-          "archiveFileName": "exploreembeddedavrboards.zip",
-          "checksum": "SHA-256:1BA073B66EA561CCD75069AC14E3FDD93E872AD6B5EA3DF46B8C79EF6A9666A2",
+          "url": "https://github.com/MohdAzka/ard_boards/raw/master/IDE_Board_Manager/Azka-board.zip",
+          "archiveFileName": "Azka-board.zip",
+          "checksum": "SHA-256:0da9dbde4adcb1a947ef5828e0c6b30ed81ea1bacc7448c3016ae0486184fcb9",
           "size": "28563",
           "help": {
             "online": "https://exploreembedded.com/wiki"
           },
           "boards": [
             {
-              "name": "MohdAzka Atmega128"
+              "name": "MohdAzka Esp32"
             }
           ],
           "toolsDependencies": [
